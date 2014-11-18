@@ -1,0 +1,20 @@
+{
+  "name": "AngularJS template app",
+  "version": "0.0.0",
+  "authors": [
+    "Chanaka Sandaruwan <chanakasan@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower-foundation": "~4.0.0",
+    "angular": "1.2.*",
+    "angular-route": "1.2.*"
+  }
+}
