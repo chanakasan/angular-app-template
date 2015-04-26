@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "BSD-2-Clause",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "^2.0.0"
+  }
 }
